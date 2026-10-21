@@ -1,0 +1,5 @@
+# 忽略 PROGRAM 資料夾下的所有檔案與子資料夾
+PROGRAM/*
+
+# 例外排除：不要忽略 .gitkeep 檔案
+!PROGRAM/.gitkeep

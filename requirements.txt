@@ -1,0 +1,12 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-sock==0.7.0
+simple-websocket==1.1.0
+paramiko==3.4.0
+pywinrm>=0.4.3
+cryptography>=42.0.0
+requests>=2.31.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+pillow
+pyinstaller>=6.15.0
